@@ -225,6 +225,6 @@ input.error {
 
 .article-btn:hover{
   cursor: pointer;
-  box-shadow: 5px 5px;
+  box-shadow: 5px 5px 5px;
   transition: all 0.3s ease-in-out;
 }
