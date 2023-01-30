@@ -214,3 +214,17 @@ input.error {
   font-size: 0.85rem;
   margin-top: 0.5rem;
 }
+
+.article-btn{
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: lightblue;
+  border: none;
+}
+
+.article-btn:hover{
+  cursor: pointer;
+  box-shadow: 5px 5px;
+  transition: all 0.3s ease-in-out;
+}
