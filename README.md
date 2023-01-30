@@ -1,3 +1,1 @@
-#### Values JS
-
-[values.js](https://github.com/noeldelgado/values.js)
+<h1>COLOR GENERATOR REACT</h1>
